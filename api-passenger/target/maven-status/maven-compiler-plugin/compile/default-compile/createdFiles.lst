@@ -1,0 +1,3 @@
+com\gosling\apipassenger\controller\VerificationCodeController.class
+com\gosling\apipassenger\request\VerificationCodeDTO.class
+com\gosling\apipassenger\service\VerificationCodeService.class
